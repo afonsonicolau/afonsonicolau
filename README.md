@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello dear User
+
+My name is Afonso Nicolau and I am curretly a student in a programming course! I have big expectations and ambitions, define objetives and a goal to achieve.
+
+I want to improve and learn as much as I can, as well as innovate with new techonology and software. 
 
 <!--
 **afonsonicolau/afonsonicolau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
