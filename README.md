@@ -1,9 +1,9 @@
 ### Hello dear user!
 
-My name is __Afonso Nicolau__ and I am curretly a student in a programming course. I have big expectations and ambitions, defined objectives and a goal to achieve.
+My name is __Afonso Nicolau__ and I am currently a student in a programming course. I have big expectations, ambitions, defined objectives and a goal to achieve.
 
 I want to improve and learn as much as I can, as well as innovate with new techonology and software.
-Talking about tech and supporting others into making them programming and show them how __important__ it is to improve in this world of everyday changes and evolution is really one of the best things I could ever do.
+Talking about tech and supporting others into making them programming, showing them how __important__ it is to improve in this world of everyday changes and evolution, is really one of the things I feel absolutely happy to have a conversation about.
 
 <!--
 **afonsonicolau/afonsonicolau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
